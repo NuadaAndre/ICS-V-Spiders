@@ -1,0 +1,224 @@
+1523594137285	geckodriver	INFO	geckodriver 0.20.0
+1523594137300	geckodriver	INFO	Listening on 127.0.0.1:6281
+1523594140320	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.mrnHK0Hbqf2r"
+*** You are running in headless mode.
+1523594141648	Marionette	INFO	Enabled via --marionette
+1523594145036	Marionette	INFO	Listening on port 6289
+1523594145592	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 74736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 71164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523594150214	geckodriver::marionette	ERROR	Failed to stop browser process
+1523600965808	geckodriver	INFO	geckodriver 0.20.0
+1523600965824	geckodriver	INFO	Listening on 127.0.0.1:10306
+1523600968856	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.jenJicPj92uh"
+*** You are running in headless mode.
+1523600969708	Marionette	INFO	Enabled via --marionette
+1523600972574	Marionette	INFO	Listening on port 10314
+1523600973336	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Child 65088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 65088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+ port 10377
+1523601025308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523601025424	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 75284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 75284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523601029672	geckodriver::marionette	ERROR	Failed to stop browser process
+1523601448586	geckodriver	INFO	geckodriver 0.20.0
+1523601448602	geckodriver	INFO	Listening on 127.0.0.1:10833
+1523601451656	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.C8pUudhTPY75"
+*** You are running in headless mode.
+1523601452434	Marionette	INFO	Enabled via --marionette
+1523601455542	Marionette	INFO	Listening on port 10841
+1523601455918	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 70936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523601470775	geckodriver	INFO	geckodriver 0.20.0
+1523601470790	geckodriver	INFO	Listening on 127.0.0.1:10889
+1523601473811	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.gwFkb4X2A3SW"
+*** You are running in headless mode.
+1523601474626	Marionette	INFO	Enabled via --marionette
+1523601477384	Marionette	INFO	Listening on port 10897
+1523601477448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523601478164	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+Promise rejected after context unloaded: Message manager disconnected
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 66488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 72344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 72344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523601481848	geckodriver::marionette	ERROR	Failed to stop browser process
+1523601656997	geckodriver	INFO	geckodriver 0.20.0
+1523601657014	geckodriver	INFO	Listening on 127.0.0.1:10978
+1523601660064	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.N1tIiIQtaeB1"
+*** You are running in headless mode.
+1523601660964	Marionette	INFO	Enabled via --marionette
+1523601664050	Marionette	INFO	Listening on port 10989
+1523601664394	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1523601675119	geckodriver	INFO	geckodriver 0.20.0
+1523601675136	geckodriver	INFO	Listening on 127.0.0.1:11036
+1523601678172	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.4oq6z4uqBiBf"
+*** You are running in headless mode.
+1523601679008	Marionette	INFO	Enabled via --marionette
+1523601682120	Marionette	INFO	Listening on port 11045
+1523601682742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523601682868	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 67304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 74740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 74740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+1523601686103	geckodriver::marionette	ERROR	Failed to stop browser process
+1523601771218	geckodriver	INFO	geckodriver 0.20.0
+1523601771235	geckodriver	INFO	Listening on 127.0.0.1:11096
+1523601774285	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.pWijjlolNKle"
+*** You are running in headless mode.
+1523601775106	Marionette	INFO	Enabled via --marionette
+1523601778422	Marionette	INFO	Listening on port 11104
+1523601779508	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1523601987700	geckodriver	INFO	geckodriver 0.20.0
+1523601987723	geckodriver	INFO	Listening on 127.0.0.1:11219
+1523602092086	geckodriver	INFO	geckodriver 0.20.0
+1523602092102	geckodriver	INFO	Listening on 127.0.0.1:11252
+1523602095130	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.8AyAxdvKUzo9"
+*** You are running in headless mode.
+1523602095912	Marionette	INFO	Enabled via --marionette
+1523602098752	Marionette	INFO	Listening on port 11260
+1523602099348	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: unreachable code after return statement
+er::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.InJadhFLKXMW"
+*** You are running in headless mode.
+1523602140908	Marionette	INFO	Enabled via --marionette
+1523602143686	Marionette	INFO	Listening on port 11320
+1523602143726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523602182478	geckodriver	INFO	geckodriver 0.20.0
+1523602182494	geckodriver	INFO	Listening on 127.0.0.1:11376
+1523602185504	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.rjgGPAbg8fgI"
+*** You are running in headless mode.
+1523602186574	Marionette	INFO	Enabled via --marionette
+1523602189622	Marionette	INFO	Listening on port 11384
+1523602189640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523602251315	geckodriver	INFO	geckodriver 0.20.0
+1523602251334	geckodriver	INFO	Listening on 127.0.0.1:11430
+1523602254391	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.uwiAQEvF7PCJ"
+*** You are running in headless mode.
+1523602255370	Marionette	INFO	Enabled via --marionette
+1523602258640	Marionette	INFO	Listening on port 11439
+1523602259624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523602293209	geckodriver	INFO	geckodriver 0.20.0
+1523602293226	geckodriver	INFO	Listening on 127.0.0.1:11504
+1523602296274	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.akv4M2zlg6ck"
+*** You are running in headless mode.
+1523602297066	Marionette	INFO	Enabled via --marionette
+1523602299670	Marionette	INFO	Listening on port 11512
+1523602300350	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://www.cnvd.org.cn/flaw/list.htm?flag=true line 8 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 69856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 69856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523602311796	geckodriver::marionette	ERROR	Failed to stop browser process
+1523701056742	geckodriver	INFO	geckodriver 0.20.0
+1523701056773	geckodriver	INFO	Listening on 127.0.0.1:63599
+1523701059849	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\XIAJUN~1\\AppData\\Local\\Temp\\rust_mozprofile.OCFkgviC6t16"
+1523701063760	Marionette	INFO	Enabled via --marionette
+1523701068508	Marionette	INFO	Listening on port 63629
+1523701069550	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 85800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 76132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 76132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xiajunfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 84928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 84928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 85800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
